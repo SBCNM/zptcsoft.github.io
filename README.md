@@ -8,7 +8,7 @@ Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等�
 
 ## 学友链接
 
-[00王海庆](https://github.com/zptcweb/zptcweb.github.io)  
+[00王海庆](https://github.com/zptcweb/zptcweb.github.io) 
 
 ### 软件151
 [04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)
@@ -17,10 +17,10 @@ Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等�
 [14潘佳琦](https://github.com/pjq123456/pjq123456.github.io) 
 [17郑天阳](https://github.com/zty451514243/zty451514243.github.io)
 [19王永琪](https://github.com/29816768/29816768.github.io)
-[21白逢喜](https://github.com/b526879840/b526879840.github.io)
 [27王瑶]( https://github.com/blacklike/blacklike.github.io/)
 [31徐道聪](https://github.com/xuxiaoshang/xuxiaoshang.github.io)
 [36鲁好德](https://github.com/lhdzptc/zptcsoft.github.io)
+[37张天一](https://github.com/SBCNM/SBCNM.github.io)
 [39刘晓辉]( https://github.com/liuxiaohui2060/liuxiaohui.github.io)
 ### 软件152
 [01余家宝](https://github.com/prtake/prtake.github.io) 
